@@ -1,0 +1,71 @@
+#site_header{
+  background-color: #ff8523;
+  width:auto;
+  height:120px;
+  margin: 10px;
+}
+
+nav a {
+  border: 2px;
+  border-color: white;
+  border-style: solid;
+  border-radius: 10%;
+  font-weight: bold;
+  padding: 10px 40px;
+  margin: 1px;
+  text-align: center;
+  font-family: helvetica;
+  line-height: 1.6;
+  color: white;
+  text-decoration: none;
+  background-color: #ff8523;
+}
+.main_navigation{
+  margin: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+h2{
+  color: blue;
+}
+h3{
+  color:blue;
+}
+ul{font-weight: bold;}
+
+thead{
+  background-color: lightblue;
+  color: white;
+
+}
+td{
+  border-style: solid;
+  border-color: black;
+  border: 1px solid blue;
+padding:5px;
+resize: both 40px;
+}
+
+table{
+  border-collapse: collapse;
+  image-resolution: 10px;
+  width: 100%;
+  height: 500px;
+}
+
+
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
